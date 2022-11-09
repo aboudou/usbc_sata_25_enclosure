@@ -29,9 +29,8 @@ Bill of materials
 Who am I ?
 ==
 
-* Arnaud Boudou ([@boudouarnaud](https://twitter.com/boudouarnaud))
-* Software developper at [ekito](https://www.ekito.fr/people/author/aboudou/)
-* Handmade [maker](https://goddess-gate.com/projects/en)
+* Arnaud Boudou ([@aboudou@pouet.chapril.org](https://pouet.chapril.org/@aboudou))
+* Software developper at [Arnaud Boudou Conseiil](https://boudou-conseil.io)
 
 <hr/>
 
@@ -64,6 +63,5 @@ Liste de courses
 Qui suis-je ?
 ==
 
-* Arnaud Boudou ([@boudouarnaud](https://twitter.com/boudouarnaud))
-* Développeur logiciel chez [ekito](https://www.ekito.fr/people/author/aboudou/)
-* [Maker](https://goddess-gate.com/projects/en) à mes heures perdues
+* Arnaud Boudou ([@aboudou@pouet.chapril.org](https://twitter.com/boudouarnaud))
+* Développeur logiciel chez [Arnaud Boudou Conseil](https://boudou-conseil.io)
